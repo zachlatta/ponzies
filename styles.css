@@ -17,8 +17,9 @@ p {
 .title {
     font-size: 84px;
     font-weight: bold;
-    font-family: 'Kalam', cursive;
     margin-top: 75px;
+    font: italic 'Fjalla One';
+    letter-spacing: 5px;
     margin-bottom: 60px;
 }
 
