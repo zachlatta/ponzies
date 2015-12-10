@@ -21,6 +21,7 @@ p {
     font-weight: bold;
     font: italic 'Fjalla One';
     letter-spacing: 5px;
+    text-shadow: 4px 5px #0F0F0F, 6px 7px #C6A39A;
     padding-top: 75px;
     margin-bottom: 60px;
 }
