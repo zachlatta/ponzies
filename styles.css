@@ -11,8 +11,7 @@ p {
 
 .container {
   margin: 0 auto;
-  max-width: 45em;
-  min-width: 45em;
+  width: 45em;
   text-align: center;
 }
 
