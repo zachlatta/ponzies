@@ -69,6 +69,10 @@ p {
     font-style: italic;
 }
 
+.subtext.narrow {
+    max-width: 200px;
+}
+
 .symbol {
     font-size: 38px;
 }
