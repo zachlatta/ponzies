@@ -1,105 +1,105 @@
 body {
-    font-family: 'Open Sans', sans-serif;
-    color: #333;
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
 }
 
 p {
-    font-size: 22px;
+  font-size: 22px;
 }
 
 .container {
-    margin: 0 auto;
-    max-width: 45em;
-    min-width: 45em;
-    text-align: center;
+  margin: 0 auto;
+  max-width: 45em;
+  min-width: 45em;
+  text-align: center;
 }
 
 .title {
-    font-size: 84px;
-    font-weight: bold;
-    font-family: 'Kalam', cursive;
-    margin-top: 75px;
-    margin-bottom: 60px;
+  font-size: 84px;
+  font-weight: bold;
+  font-family: 'Kalam', cursive;
+  margin-top: 75px;
+  margin-bottom: 60px;
 }
 
 .description {
-    margin-top: 0;
-    margin-bottom: 50px;
-    font-size: 36px;
-    font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 50px;
+  font-size: 36px;
+  font-weight: 600;
 }
 
 .while-supplies-last {
-    margin-bottom: 75px;
+  margin-bottom: 75px;
 }
 
 .while-supplies-last .description {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .while-supplies-last .subtext {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 .directions p {
-    max-width: 25em;
-    margin-left: auto;
-    margin-right: auto;
+  max-width: 25em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .directions .description {
-    margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 .directions .subtext {
-    font-size: 18px;
-    bottom: 0px;
+  font-size: 18px;
+  bottom: 0px;
 }
 
 .directions .horizontal-steps .columns {
-    position: relative;
-    padding-top: 60px;
-    top: 50%;
-    transform: translateY(-50%);
-    margin-bottom: -100px;
+  position: relative;
+  padding-top: 60px;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-bottom: -100px;
 }
 
 .subtext {
-    font-size: 20px;
-    font-style: italic;
+  font-size: 20px;
+  font-style: italic;
 }
 
 .subtext.narrow {
-    max-width: 200px;
+  max-width: 200px;
 }
 
 .symbol {
-    font-size: 38px;
+  font-size: 38px;
 }
 
 .stickers img {
-    height: 200px;
+  height: 200px;
 }
 
 .icon {
-    display: inline-block;
-    text-indent: -9999px;
+  display: inline-block;
+  text-indent: -9999px;
 }
 
 .quarter {
-    background-image: url('quarter.svg');
-    width: 105px;
-    height: 105px;
-    background-size: 105px 105px;
+  background-image: url('quarter.svg');
+  width: 105px;
+  height: 105px;
+  background-size: 105px 105px;
 
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 .letter {
-    background-image: url('letter.svg');
-    width: 600px;
-    height: 300px;
-    background-size: 600px 300px;
+  background-image: url('letter.svg');
+  width: 600px;
+  height: 300px;
+  background-size: 600px 300px;
 }
