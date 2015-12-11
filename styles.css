@@ -11,7 +11,7 @@ p {
 
 .container {
   margin: 0 auto;
-  width: 45em;
+  width: 720px;
   text-align: center;
 }
 
@@ -43,7 +43,7 @@ p {
 }
 
 .directions p {
-  max-width: 25em;
+  max-width: 400px;
   margin-left: auto;
   margin-right: auto;
 }
