@@ -77,6 +77,10 @@ p {
     font-size: 38px;
 }
 
+.stickers img {
+    height: 200px;
+}
+
 .icon {
     display: inline-block;
     text-indent: -9999px;
