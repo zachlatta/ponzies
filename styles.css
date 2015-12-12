@@ -104,3 +104,17 @@ p {
   height: 300px;
   background-size: 600px 300px;
 }
+
+.share-links {
+  padding-bottom: 2em;
+}
+
+/* This is done to avoid !important */
+
+.fb-share-button {
+  vertical-align: text-bottom;
+}
+
+.twitter-share-button[style] {
+  vertical-align: text-bottom;
+}
